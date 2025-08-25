@@ -145,7 +145,7 @@ const Navbar = () => {
               setVisible(false), setShowSearch(false);
             }}
             className="py-2 pl-6 border-b"
-            to="/home"
+            to="/"
           >
             HOME
           </NavLink>
